@@ -1,7 +1,8 @@
 import type { FC } from "react";
 
 import { Box } from "./Box";
-import { Dustbin } from "./Dustbin";
+import { Dustbin } from "./DustBin";
+import React from "react";
 
 export const Container: FC = () => (
   <div>

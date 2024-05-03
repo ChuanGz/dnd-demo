@@ -3,6 +3,7 @@ import type { DragSourceMonitor } from "react-dnd";
 import { useDrag } from "react-dnd";
 
 import { ItemTypes } from "./ItemTypes";
+import React from "react";
 
 const style: CSSProperties = {
   border: "1px dashed gray",
